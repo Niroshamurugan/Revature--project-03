@@ -1,7 +1,6 @@
 # Analyzing real-time data with Spark Streaming and Kafka
 
 ## Project Description
-
 The project deals with the processing the weather data from www.weatherbit.io using Kafka and Spark Streaming. Here we are simulating the streaming data using previous days data and visualizing the outcome using Matplotlib. The data processing program is developed using Python.
 
 ## Technologies Used
