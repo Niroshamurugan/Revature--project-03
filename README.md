@@ -66,10 +66,10 @@ python output.py
 ```
 
 ## Contirbutors
-* Meenal Shree
-* Neha Kumari
-* Redon N Roy
-* Rushikesh Lavate
+* [Meenal Shree](https://github.com/meenal-shree)
+* [Neha Kumari](https://github.com/nkneha)
+* [Redon N Roy](https://github.com/redon-n-roy)
+* [Rushikesh Lavate](https://github.com/Rushi21-kesh)
 
 ## License
 This project uses the [MIT](./LICENSE) license.
